@@ -1,0 +1,8 @@
+# dataset
+data
+
+# ipynb checkpoint
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+fastai
